@@ -16,7 +16,7 @@ local outreach to civilians about how to respond to a wildfire and how to preven
 
 The Following R packages are used
 
-1. ggplot2
+1. (ggplot2)[https://cran.r-project.org/web/packages/ggplot2/index.html]
 2. ggvoronoi
 3. maps
 4. tidyverse
